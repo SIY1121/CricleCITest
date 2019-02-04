@@ -1,0 +1,14 @@
+{
+  "name": "CircleCITest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SIY1121/CricleCITest.git",
+  "author": "SIY1121 <sota.0512.0213@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
